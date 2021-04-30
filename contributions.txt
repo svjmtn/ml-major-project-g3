@@ -1,0 +1,11 @@
+Our group consists of: Sharanya, Savio, Sumit, Pranjal
+
+Ideation: Savio, Sharanya, Sumit
+Data Collection: Everyone
+EDA and Visualisation: Sharanya
+Data Processing: Savio, Sharanya
+Decision Tree: Savio
+LSTM: Sharanya
+Report: Savio, Sharanya
+
+Sumit had a family medical emergency hence we wasn't able to contribute much.
